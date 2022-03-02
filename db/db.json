@@ -1,52 +1,120 @@
 {
-  "toys": [
+  "margaritas": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Classic Margarita",
+      "ingredients": [
+        "1 oz silver tequila",
+        "1 oz Cointreau",
+        "1/2 oz fresh lime juice",
+        "splash of simple syrup",
+        "coarse salt and a slice of lime for garnish"
+      ],
+      "directions": "Combine the tequila, cointreau, lime juice and simple syrup in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
+      "image": "https://bit.ly/3IEwvOv",
+      "likes": 0
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Blue Margarita",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "1 oz Blue Curacao",
+        "1 oz fresh lime juice",
+        "coarse salt and a slice of lime for garnish"
+      ],
+      "directions": "Combine the tequila, Blue Curacao and lime juice in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
+      "image": "https://bit.ly/346J3Pu",
+      "likes": 0
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Strawberry Margarita",
+      "ingredients": [
+        "1 oz silver tequila",
+        "1/2 oz Strawberry Schnaps",
+        "1/2 oz Triple Sec",
+        "1/2 oz fresh lemon juice",
+        "1 oz chopped strawberries",
+        "coarse salt and a fresh strawberry for garnish"
+      ],
+      "directions": "Combine the tequila, Triple Sec, Strawberry Schnaps, lemon juice and strawberries in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish a strawberry, and serve.",
+      "image": "https://bit.ly/3IEwvOv",
+      "likes": 0
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Smashed Watermelon Margarita",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "2 1/2 oz Grapefruit Juice",
+        "1/2 cup watermelon",
+        "juice of 1/2 lime",
+        "5 mint leaves",
+        "coarse salt and a slice of watermelon for garnish"
+      ],
+      "directions": "In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.",
+      "image": "https://bit.ly/3IEwvOv",
+      "likes": 0
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Cucumber Jalapeño Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 oz Cointreau",
+        "1 oz fresh lime juice",
+        "3 slices jalapeõ",
+        "8 slices cucumber",
+        "2 tbs granulated sugar",
+        "coarse salt and slices of lime for garnish"
+      ],
+      "directions": "In a cocktail shaker, add cucumber slices, lime slices, lime juice, jalapeno slices, and sugar and muddle together. Add tequila and Cointreau and fill with ice. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with cucumber and serve.",
+      "image": "https://bit.ly/347V1bL",
+      "likes": 0
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Mango Margarita",
+      "ingredients": [
+        "3 oz silver tequila",
+        "1 oz Cointreau",
+        "1 oz fresh lime juice",
+        "1 1/2 cups diced frozen mango pieces",
+        "1 tbs simple syrup",
+        "coarse salt and a slice of lime for garnish"
+      ],
+      "directions": "Add the tequila, Cointreau, lime juice, frozen mango, simple syrup and ice to a blender. Blend until frothy and fully combined strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
+      "image": "https://bit.ly/3vFXS6S",
+      "likes": 0
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
+      "name": "Basil Lime Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 oz fresh lime juice",
+        "1 oz simple syrup",
+        "4 basil leaves",
+        "coarse salt and a slice of lime for garnish"
+      ],
+      "directions": "Combine the tequila, lime juice, simple syrup and basil leaves in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, basil leaves, and serve.",
+      "image": "https://bit.ly/3HvAZpj",
       "likes": 0
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Ginger Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 oz lime juice",
+        "1 oz Honey Syrup",
+        "3 slices of fresh ginger",
+        "coarse salt and sliced lime ginger for garnish"
+      ],
+      "directions": "To make Honey syrup, combine equal parts of honey and warm water, stirring until honey dissolves. Muddle the 2 ginger slices with the honey syrup in a coctail shaker. Add the tequila, lime juice and ice. Shake until cold, then strain into a chilled, salt-rimmed rocks glass. Garnish with lime a slice of ginger, and serve.",
+      "image": "https://bit.ly/3pyXlA5",
+      "likes": 0
     }
   ]
 }
