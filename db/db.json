@@ -115,15 +115,6 @@
       "directions": "To make Honey syrup, combine equal parts of honey and warm water, stirring until honey dissolves. Muddle the 2 ginger slices with the honey syrup in a coctail shaker. Add the tequila, lime juice and ice. Shake until cold, then strain into a chilled, salt-rimmed rocks glass. Garnish with lime a slice of ginger, and serve.",
       "image": "https://bit.ly/3pyXlA5",
       "favorite": false
-    },
-    {
-      "name": "glitter margarita",
-      "ingredients": "tequila",
-      "directions": "shake it",
-      "image": "https://st.depositphotos.com/1071717/3372/i/950/depositphotos_33728695-stock-photo-margarita-cocktail-glitter-golden-background.jpg",
-      "like": false,
-      "id": 13,
-      "favorite": false
     }
   ]
 }
