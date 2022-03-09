@@ -5,9 +5,8 @@
       "name": "Classic Margarita",
       "ingredients": [
         "1 oz silver tequila",
-        "1 oz Cointreau",
+        "1 oz Cointreu",
         "1/2 oz fresh lime juice",
-        "splash of simple syrup",
         "coarse salt and a slice of lime for garnish"
       ],
       "directions": "Combine the tequila, cointreau, lime juice and simple syrup in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
@@ -25,7 +24,7 @@
       ],
       "directions": "Combine the tequila, Blue Curacao and lime juice in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
       "image": "https://bit.ly/346J3Pu",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 3,
@@ -39,7 +38,7 @@
         "coarse salt and a fresh strawberry for garnish"
       ],
       "directions": "Combine the tequila, Triple Sec, Strawberry Schnaps, lemon juice and strawberries in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish a strawberry, and serve.",
-      "image": "https://bit.ly/3IEwvOv",
+      "image": "https://bit.ly/3vR5tQn",
       "favorite": false
     },
     {
@@ -55,7 +54,7 @@
       ],
       "directions": "In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.",
       "image": "https://bit.ly/3IEwvOv",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 5,
@@ -71,7 +70,7 @@
       ],
       "directions": "In a cocktail shaker, add cucumber slices, lime slices, lime juice, jalapeno slices, and sugar and muddle together. Add tequila and Cointreau and fill with ice. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with cucumber and serve.",
       "image": "https://bit.ly/347V1bL",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 6,
@@ -86,7 +85,7 @@
       ],
       "directions": "Add the tequila, Cointreau, lime juice, frozen mango, simple syrup and ice to a blender. Blend until frothy and fully combined strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
       "image": "https://bit.ly/3vFXS6S",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 7,
@@ -114,6 +113,47 @@
       ],
       "directions": "To make Honey syrup, combine equal parts of honey and warm water, stirring until honey dissolves. Muddle the 2 ginger slices with the honey syrup in a coctail shaker. Add the tequila, lime juice and ice. Shake until cold, then strain into a chilled, salt-rimmed rocks glass. Garnish with lime a slice of ginger, and serve.",
       "image": "https://bit.ly/3pyXlA5",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "name": "Spicy Jalapeño Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 oz lime juice",
+        "1 oz Jalapeño Simple Syrup",
+        "coarse salt and fresh sliced jalapeño and lime for garnish"
+      ],
+      "directions": "To make Jalapeño Simple Syrup by combe 1/2 cup of water and 1/2 cup of sugar with 1 sliced jalapeño in a small pot. Bring to a boil and set aside to cool. When cool add, to a coctail shaker with ice along wiht the teqila and lime juice. Shake until cold, then strain into a salt-rimmed coctail glass. Garnish with fresh slices of lime and jalapeño. ",
+      "image": "https://bit.ly/3hVOZ0Y",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "name": "Peach Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 oz lime juice",
+        "2 oz Peach Schnapps",
+        "1 medium ripe to over-ripe peach",
+        "coarse salt and fresh sliced peach and lime for garnish"
+      ],
+      "directions": "Peel and dice peach, muddle in a coctail shaker. Add the tequila, lime juice, peach schnapps and ice, shake until cool. When cool add, to a coctail shaker with ice along wiht the teqila and lime juice. Shake until cold, then strain into a salt-rimmed coctail glass. Garnish with fresh slices of lime and peach.  ",
+      "image": "https://bit.ly/3pRjgSW",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "name": "Grapefruit Margarita",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "1 oz Triple Sec",
+        "1 oz Ruby Red Grapefruit Juice",
+        "1 teaspoon Grenadine Syrup",
+        "coarse salt and fresh sliced grapefruit for garnish"
+      ],
+      "directions": "Combine the tequila, Triple Sec, grapefruit juice and Grenadine syrup in an ice-filled cocktail shaker. Shake until cold, and strain into a salt-rimmed glass. Garnish with a slice of fresh grapefruit and serve.",
+      "image": "https://bit.ly/3pRVTJ9",
       "favorite": false
     }
   ]
