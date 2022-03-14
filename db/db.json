@@ -53,7 +53,7 @@
         "coarse salt and a slice of watermelon for garnish"
       ],
       "directions": "In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.",
-      "image": "https://bit.ly/3IEwvOv",
+      "image": "bit.ly/3Kh37Oq",
       "favorite": true
     },
     {
@@ -155,6 +155,65 @@
       "directions": "Combine the tequila, Triple Sec, grapefruit juice and Grenadine syrup in an ice-filled cocktail shaker. Shake until cold, and strain into a salt-rimmed glass. Garnish with a slice of fresh grapefruit and serve.",
       "image": "https://bit.ly/3pRVTJ9",
       "favorite": true
+    },
+    {
+      "name": "Golden Margarita",
+      "ingredients": [
+        "1 1/2 oz gold tequila",
+        "1 oz Cointreau",
+        "1 oz lime juice",
+        "1 oz sour mix",
+        "1 dash orange juice",
+        "coarse salt and a lime wedge"
+      ],
+      "directions": "In a cocktail shaker filled with ice, pour the tequila, orange liqueur, lime juice, and sour mix. Add a splash of orange juice if you prefer. Shake well and strain into a salt rimmed glass, garnish with a lime wedge and serve. ",
+      "image": "https://bit.ly/3I6qWXX",
+      "favorite": false,
+      "id": 12
+    },
+    {
+      "name": "Rosemary Margarita",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "1/2 oz Triple Sec",
+        "1 oz rosemary simple syrup",
+        "2 oz lime juice",
+        "2 oz lemon juice ",
+        "coarse sugar, rosemary and a slice of lime for garnish"
+      ],
+      "directions": "Firs make rosemary simple syrup by bringing 1 cup of water, 1 cup of sugar and 2 rosemary sprig to a boil. Stir until sugar has completely dissolved. Let cool. Fill a coctail shaker with ice and add all ingredients. Shake well and pour over a sugar rimmed glass and garnish with a sprig of rosemary and a slice of lime.  ",
+      "image": "https://bit.ly/3I5X6CK",
+      "favorite": false,
+      "id": 13
+    },
+    {
+      "name": "Champagne Margarita",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "1 oz lime juice",
+        "1/2 oz simple syrup",
+        "1 dash of Cointreu",
+        "dry champagne or sparkling wine to top",
+        "coarse salt and a lime wedge"
+      ],
+      "directions": "First make simple syrup: combine sugar and water in a small saucepan over medium-high heat and whisk to dissolve sugar. Bring to a boil then remove from heat and cool. Combine tequila, lime juice, simple syrup, and orange liqueur in a cocktail shaker with plenty of ice and shake vigorously. Pour over ice into salt rimmed glass and top with champagne. Garnish with a wedge of lime. ",
+      "image": "https://bit.ly/3tLdiV0",
+      "favorite": false,
+      "id": 14
+    },
+    {
+      "name": "Pink Lemonade Margartia",
+      "ingredients": [
+        "1 1/2 oz silver tequila",
+        "1 oz freshly squeezed lemon juice",
+        "1/2 oz Cointreau",
+        "4 oz Raspberry Lemonade",
+        "corse salt, lemon wedges, mint leaves and fresh raspberries for garnish"
+      ],
+      "directions": "Combine raspberry lemonade, tequila, lemon juice, and orange liqueur in an ice filled cocktail shaker.  Shake well for a few seconds to incorporate and chill. Pour into glass with ice, garnish with a lemon slice, raspberries, and mint leaves. ",
+      "image": "https://bit.ly/3tLfbRA",
+      "favorite": false,
+      "id": 15
     }
   ]
 }
