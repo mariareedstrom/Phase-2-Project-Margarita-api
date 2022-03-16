@@ -11,7 +11,7 @@
       ],
       "directions": "Combine the tequila, cointreau, lime juice and simple syrup in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
       "image": "https://bit.ly/3IEwvOv",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       ],
       "directions": "Combine the tequila, Blue Curacao and lime juice in an ice-filled cocktail shaker. Shake until cold, and strain into a chilled, salt-rimmed rocks glass. Garnish with lime, and serve.",
       "image": "https://bit.ly/346J3Pu",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 3,
@@ -53,8 +53,8 @@
         "coarse salt and a slice of watermelon for garnish"
       ],
       "directions": "In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.",
-      "image": "bit.ly/3Kh37Oq",
-      "favorite": true
+      "image": "https://bit.ly/3Kh37Oq",
+      "favorite": false
     },
     {
       "id": 5,
@@ -113,7 +113,7 @@
       ],
       "directions": "To make Honey syrup, combine equal parts of honey and warm water, stirring until honey dissolves. Muddle the 2 ginger slices with the honey syrup in a coctail shaker. Add the tequila, lime juice and ice. Shake until cold, then strain into a chilled, salt-rimmed rocks glass. Garnish with lime a slice of ginger, and serve.",
       "image": "https://bit.ly/3pyXlA5",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 9,
@@ -214,6 +214,20 @@
       "image": "https://bit.ly/3tLfbRA",
       "favorite": false,
       "id": 15
+    },
+    {
+      "name": "Skinny Margarita",
+      "ingredients": [
+        "2 oz silver tequila",
+        "1 1/2 oz lime juice",
+        "1 oz fresh orange juice",
+        "1 tsp light agave nectar",
+        "coarse salt and a lime wedge for garnish"
+      ],
+      "directions": "Fill a small cocktail shaker with ice. Pour in the tequila, freshly squeezed lime and orange juice and agave nectar. Put on the lid and shake for 30 seconds. Strain the liquid into a salt rimmed glass and garnish with a slice of lime.",
+      "image": "https://bit.ly/36oRfLD",
+      "favorite": false,
+      "id": 16
     }
   ]
 }
